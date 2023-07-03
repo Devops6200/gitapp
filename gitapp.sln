@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gitapp", "gitapp\gitapp.csproj", "{098672D6-BA92-48EB-A339-D1627E4698DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{098672D6-BA92-48EB-A339-D1627E4698DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{098672D6-BA92-48EB-A339-D1627E4698DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{098672D6-BA92-48EB-A339-D1627E4698DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{098672D6-BA92-48EB-A339-D1627E4698DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA9FE51D-ABA3-440B-BB81-0C037142FE09}
+	EndGlobalSection
+EndGlobal
